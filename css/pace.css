@@ -16,5 +16,5 @@
 	.loader-title span { color: #a81c51; font-weight:300; font-family: 'Josefin Sans', sans-serif; text-transform: lowercase; margin: 0 100px 0 12px; }
 
 	.loader-title::before { background: url("") no-repeat scroll 100% 100%; bottom: 0; content: ""; height: 196px; left: 0; margin: auto; opacity: 0.8; position: absolute; right: 0; top: -150%; width: 110px; z-index: -1; 
-	animation: 4s linear 0s normal none infinite running floating; -webkit-animation: 2s linear 0s normal none infinite running floating; -moz-animation: 2s linear 0s normal none infinite running floating; 
+	animation: 2s linear 0s normal none infinite running floating; -webkit-animation: 2s linear 0s normal none infinite running floating; -moz-animation: 2s linear 0s normal none infinite running floating; 
 	-ms-animation: 2s linear 0s normal none infinite running floating; -o-animation: 2s linear 0s normal none infinite running floating; }
