@@ -649,7 +649,7 @@
 	#main { float: left; margin: 0; position: relative; width: 100%; }
 	
 	.slider-container { backface-visibility: hidden; margin: 0 0 20px; display: table; float: left; height: 100%;	min-height: 100%; overflow: hidden; position: relative; vertical-align: middle; width: 100%;}
-	.slider { background-image:url(images/denise-main-sized.jpg); backface-visibility: hidden; display: table; float: left; height: 100%; width: 100%; opacity: .8;  }
+	.slider { background-image:url(images/main-back.jpg); backface-visibility: hidden; display: table; float: left; height: 100%; width: 100%; opacity: .8;  }
 	.slider-container .container, .slider-container .parallax { position: static; }	
 
 	.slider-container-art { backface-visibility: hidden; margin: 0 0 20px; display: table; float: left; height: 100%;	min-height: 100%; overflow: hidden; position: relative; vertical-align: middle; width: 100%;}
